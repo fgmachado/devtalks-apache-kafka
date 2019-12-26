@@ -1,0 +1,15 @@
+insert into devtalks.cliente (nome, email) values ('Teste 01', 'teste01@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 02', 'teste02@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 03', 'teste03@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 04', 'teste04@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 05', 'teste05@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 06', 'teste06@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 07', 'teste07@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 08', 'teste08@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 09', 'teste09@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 10', 'teste10@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 11', 'teste11@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 12', 'teste12@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 13', 'teste13@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 14', 'teste14@teste.com');
+insert into devtalks.cliente (nome, email) values ('Teste 15', 'teste15@teste.com');

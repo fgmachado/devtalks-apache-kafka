@@ -1,0 +1,12 @@
+{
+    "name": "clientes",
+    "config": {
+      "connector.class": "io.confluent.connect.jdbc.JdbcSourceConnector",
+      "connection.url": "mysql://localhost:3306/devtalks",
+      "connection.user": "devtalks",
+      "connection.password": "devtalks",
+      "mode": "incrementing",
+      "topic.prefix": "clientes",
+      "table.types": "TABLE, BASE, SYSTEM, VIEW, GLOBAL TEMPORARY"
+    }
+  }

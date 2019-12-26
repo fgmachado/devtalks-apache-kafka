@@ -1,0 +1,13 @@
+version: "3"
+services:
+  mysql:
+    image: "mysql:latest"
+    hostname: "mysql"
+    container_name: "mysql"
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: 'devtalks'
+      MYSQL_USER: 'devtalks'
+      MYSQL_PASSWORD: 'devtalks'
+      MYSQL_ROOT_PASSWORD: 'devtalks'
